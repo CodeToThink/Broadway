@@ -1,9 +1,15 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica;
 }
 
+body {
+  background-color: white;
+  text-align: center;
+  background-image: image(CSS/Media/the-flatiron-building.png);
+
 h1 {
-  color:SeaGreen;
+  color: blue;
+  background-image: image(CSS/Media/the-flatiron-building.png);
 }
 
 p,
