@@ -5,11 +5,12 @@
 body {
   background-color: white;
   text-align: center;
-  background-image: image(CSS/Media/the-flatiron-building.png);
+
+}
 
 h1 {
-  color: blue;
-  background-image: image(CSS/Media/the-flatiron-building.png);
+  color: white;
+  background-image: url(..//CSS/Media/the-flatiron-building.png);
 }
 
 p,
