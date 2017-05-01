@@ -1,9 +1,10 @@
 * {
   font-family: Helvetica;
+
 }
 
 body {
-  background-color: white;
+
   text-align: center;
 
 }
@@ -17,8 +18,7 @@ body {
   background-repeat: no-repeat;
 }
 
-li,
-Broadway{
+ul,Broadway{
   color: white;
   font-size: 18x;
   text-decoration: underline;
@@ -26,11 +26,15 @@ Broadway{
   margin-top: 30px;
 }
 
-p,
-li {
-  font-size: 18px;
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
 }
 
-a {
-  text-decoration: none;
+
+li,Process{
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
 }
