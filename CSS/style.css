@@ -10,7 +10,20 @@ body {
 
 .Broadway {
   color: white;
+  font-size: 70px;
+  font-weight: bold;
   background-image: url(..//CSS/Media/the-flatiron-building.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+li,
+Broadway{
+  color: white;
+  font-size: 18x;
+  text-decoration: underline;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 p,
