@@ -22,6 +22,16 @@ body {
   line-height: 2.4;
 }
 
+.Process li {
+  color: black;
+  font-weight: bold;
+  font-size: 23px;
+  line-height: 2.4;
+}
+
+.Process li{
+  font-size: 14px;
+}
 
 h2{
   font-family: Helvetica;
