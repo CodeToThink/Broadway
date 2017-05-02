@@ -33,6 +33,28 @@ body {
   font-size: 14px;
 }
 
+.NYC{
+    background-image: url(..//CSS/Media/the-flatiron-building.png);
+    background-size: 111% 7%;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-size: 23x;
+    color: white;
+}
+
+.NYC li{
+  color: black;
+  font-weight: bold;
+  font-size: 23px;
+  line-height: 1.5;
+}
+
+.NYC p{
+  font-size: 14px;
+  color: black;
+  line-height: 1.5;
+}
+
 h2{
   font-family: Helvetica;
   font-size: 32px;
